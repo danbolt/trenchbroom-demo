@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://ccdoth2ukks4r"]
+
+[ext_resource type="Texture2D" uid="uid://du37euajdntxr" path="res://maps/textures/grassy_noise.png" id="1_v8ke2"]
+
+[resource]
+albedo_texture = ExtResource("1_v8ke2")
+metallic_specular = 0.0
+texture_filter = 2
